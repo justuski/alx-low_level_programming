@@ -9,7 +9,6 @@
  */
 int main(void)
 {
-
 int n, lastd;
 
 srand(time(0));
@@ -18,7 +17,7 @@ lastd = n % 10;
 lastd = n % 10;
 
 if (lastd > 5)
-{x
+{
 printf("Last digit of %d is %d and is greater than 5\n", n, lastd);
 }
 else if (lastd == 0)
