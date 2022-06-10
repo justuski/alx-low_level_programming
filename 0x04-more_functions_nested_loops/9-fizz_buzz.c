@@ -23,7 +23,7 @@ printf("Buzz");
 }
 }
 else
-{	  
+{
 printf("%d", x);
 }
 if (x != 100)
