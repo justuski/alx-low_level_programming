@@ -5,6 +5,7 @@
  * @size: size -  Variable
  * Return: Always 0.
  */
+
 void print_triangle(int size)
 {
 int x, y;
@@ -28,7 +29,7 @@ _putchar('\n');
 }
 }
 else
-}
+{
 _putchar('\n');
 }
 }
