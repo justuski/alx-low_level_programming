@@ -12,7 +12,7 @@
 
 int coinConverter(int i)
 {
-int count = 0
+int count = 0;
 
 while (i != 0)
 {
